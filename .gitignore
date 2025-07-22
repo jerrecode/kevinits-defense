@@ -1,0 +1,4 @@
+# Exclude all raw video data and the directory itself
+/videos/raw/
+/videos/raw/*
+
