@@ -1,0 +1,2 @@
+# kevinits-defense
+ Evidence Preservation · Anti‑SLAPP · Community‑Led Legal Support  Purpose: Provide a tamper‑proof evidence archive and open task hub supporting German nursing YouTuber Kevin ITS in defending himself against a growing wave of cease‑and‑desist letters and lawsuits that observers classify as potential SLAPPs (Strategic Lawsuits Against Public Participation).  Scope: Only cryptographic fingerprints, transcripts, and procedural metadata are stored here. No raw livestream footage and no personally identifiable patient data are published.
